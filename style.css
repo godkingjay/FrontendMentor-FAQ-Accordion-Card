@@ -51,6 +51,7 @@ main {
     background: var(--bg-white);
     border-radius: 2rem;
     position: relative;
+    box-shadow: 0 1rem 3rem 0 #0004;
 }
 
 .card-img-ctn {
@@ -225,7 +226,7 @@ main {
     .card {
         aspect-ratio: 2/1;
         min-width: 16rem;
-        max-height: 28rem;
+        max-width: 50rem;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
