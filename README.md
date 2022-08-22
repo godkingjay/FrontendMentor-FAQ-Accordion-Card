@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ---> [LINK]()
+- Solution URL: ---> [LINK](https://www.frontendmentor.io/solutions/faq-accordion-card-responsive-hmtl-css-js-Q10j_OTpZW)
 - Live Site URL: ---> [LINK](https://godkingjay.github.io/FrontendMentor-FAQ-Accordion-Card/)
 
 ## My process
